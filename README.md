@@ -30,9 +30,3 @@
 - [Personal Website](https://visesh.me)
 
 ---
-
-### 📈 GitHub Stats
-
-![Visesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=viseshagarwal&show_icons=true&theme=radical)
-
----
